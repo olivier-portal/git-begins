@@ -1,10 +1,12 @@
--git clone repository_adress
+- git clone repository_adress
 
--cd directory
+- cd directory
 
--git init
+- git init
 
 - git add commands-git.md
 
--git commit -m file branch
+- git commit -m "text"
+
+
 
