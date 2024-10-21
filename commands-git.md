@@ -12,5 +12,7 @@
 
 - git checkout branch-name
 
+- git push --set-upstream origin add-create-branch-command
+
 
 
